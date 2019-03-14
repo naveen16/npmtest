@@ -1,7 +1,7 @@
 {
-"name": "@naveen16/test",
-"version": "1.0.0",
-"description": "Removes all spaces from a string",
+  "name": "@naveen16/test",
+  "version": "2.0.0",
+  "description": "Removes all spaces from a string",
   "license": "MIT",
   "repository": "naveen16/test",
   "main": "index.js",
