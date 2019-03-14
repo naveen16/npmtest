@@ -3,8 +3,13 @@ const tiny = (string) => {
   return string.replace(/\s/g, "");
 } 
 
+const testFunc = () => {
+  console.log('Test Func');
+}
+
 module.exports = {
-  tiny
+  tiny,
+  testFunc
 }
 
 //module.exports = function tiny(string) {
